@@ -24,4 +24,4 @@ Enlaces de Entrega del Proyecto
 
 - **Enlace al repositorio en GitHub:**
   - **Repo:** SC-703 - Práctica Programada 2
-  - **Enlace:** https://github.com/randyma01/SC-703-Programacion-Dispositivos-Moviles/tree/main/practicas-programadas/practica-programa-1/ranmsy-pizza-p9r2ba
+  - **Enlace:** https://github.com/randyma01/SC-703-Programacion-Dispositivos-Moviles/tree/main/practicas-programadas/practica-programada-2/ranmsy_motors
