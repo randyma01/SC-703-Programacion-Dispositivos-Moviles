@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494398898826",
+    "project_id": "disp-moviles-pp3",
+    "storage_bucket": "disp-moviles-pp3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494398898826:android:9999bb05dc8c8123192373",
+        "android_client_info": {
+          "package_name": "com.mycompany.ranmsysupermercadolupi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50TkkLjo1JBM8Q8X2Ef_2WidYAmHpFvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
