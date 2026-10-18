@@ -24,4 +24,4 @@ Enlaces de Entrega del Proyecto
 
 - **Enlace al repositorio en GitHub:**
   - **Repo:** SC-703 - Práctica Programada 3
-  - **Enlace:** [https://github.com/randyma01/SC-703-Programacion-Dispositivos-Moviles/tree/main/practicas-programadas/practica-programada-3/ranmsy-supermercado-lupi](https://github.com/randyma01/SC-703-Programacion-Dispositivos-Moviles/tree/main/practicas-programadas/practica-programada-3/ranmsy-supermercado-lupi)
+  - **Enlace:** [https://github.com/randyma01/SC-703-Programacion-Dispositivos-Moviles/tree/main/practicas-programadas/practica-programada-3/ranmsy_supermercado_lupi](https://github.com/randyma01/SC-703-Programacion-Dispositivos-Moviles/tree/main/practicas-programadas/practica-programada-3/ranmsy_supermercado_lupi)
