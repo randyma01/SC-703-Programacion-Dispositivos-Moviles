@@ -14,7 +14,7 @@
 
 ---
 
-#### Práctica Programada 4: RanmsyAtmoApp (Aplicaición del Clima)
+#### Práctica Programada 4: RanmsyAtmoApp (Aplicación del Clima)
 
 Enlaces de Entrega del Proyecto
 
