@@ -21,7 +21,6 @@ Enlaces de Entrega del Proyecto
 - **Enlace directo al proyecto en FlutterFlow:**
   - **ID:** res-q-food-app-cjpg22
   - **Enlace:** [https://app.flutterflow.io/project/res-q-food-app-cjpg22](https://app.flutterflow.io/project/res-q-food-app-cjpg22)
-  - _(Nota: Permisos de visualización y edición concedidos al correo del docente según la consigna)._
 
 - **Enlace al repositorio en GitHub:**
   - **Repo:** SC-703 - Proyecto Final (Avance 2)
